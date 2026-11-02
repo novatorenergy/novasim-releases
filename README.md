@@ -1,5 +1,5 @@
-# NovaSIM
+# NovaSIM Lite
 
-NovaSIM installers. Latest version: [Releases](../../releases/latest).
+NovaSIM Lite installers. Latest version: [Releases](../../releases/latest).
 
 The app downloads new versions from here by itself.
