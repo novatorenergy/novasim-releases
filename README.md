@@ -1,5 +1,5 @@
 # NovaSIM
 
-NovaSIM kurulum paketleri. Son surum: [Releases](../../releases/latest).
+NovaSIM installers. Latest version: [Releases](../../releases/latest).
 
-Uygulama yeni surumleri buradan kendisi indirir.
+The app downloads new versions from here by itself.
